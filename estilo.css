@@ -1,0 +1,124 @@
+html {
+	overflow-x: hidden;
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: "Open Sans";
+	font-size: 14px;
+	line-height: 1.8;
+	letter-spacing: 0.5px;
+	word-wrap: break-word;
+	font-weight: 400;
+	background-color: #000000;
+}
+
+header{
+    
+    background: url(img/sobremim/capax.jpg);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 700px;
+}
+
+.navegacaogrande nav li a{
+    color: white;
+}
+
+nav.navbar{
+
+    font-family: "Montserrat";
+    
+}
+
+nav.navbar li a:hover{
+    
+    color: #00b8e4;
+    font-size: 16px;
+}
+
+.titulo-pagina{
+    
+    padding-top: 300px;
+    margin-left: 50px;
+    color: white;
+    font-family: "Montserrat";
+    font-size: 50px;
+    font-weight: 500;
+}
+
+main{
+    
+    color: white;
+    background: black;
+}
+
+section#sobremim{
+    
+    background: transparent;
+}
+
+.caixasessao{
+    width: 10%;
+}
+
+div.titulosessao{
+    
+    font-family: "ARIAL BLACK";
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    
+}
+
+h3.titulo-conteudo{
+    
+    font-weight: 600;
+    font-family: "Montserrat";
+    line-height: 1.2;
+}
+
+button#botaodisparo{
+    
+    background-color: rgba(0,0,0,.15);
+    color: white
+}
+
+.logotipo{
+    max-width:200px;
+    max-height:240px;
+    width: auto;
+    height: auto;
+}
+
+.flex-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-box {
+  height: 10%;
+    
+}
+
+.content-box {
+  background-color: #00b8e4;
+  color: white;
+  text-align: center;
+  width: 25%;
+    font-size: 50px;
+    font-family: "Arial Black"
+}
+
+div#sbmim{
+    
+    background: url(img/sobremim/sobremim.jpg);
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+}
+
